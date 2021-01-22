@@ -1,0 +1,13 @@
+property,value
+dx,2000
+dt,10
+A,750000
+k,290
+u,2
+B,1
+ct,35
+ph,0.22
+Pi,6000
+sim_time,2000
+n,12
+prod_blocks,"2 -100, 10 75"
