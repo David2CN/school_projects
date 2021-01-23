@@ -6,6 +6,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
+import seaborn as sns
+
+sns.set()
 
 def thomasAlgorithm(n, soe):
     """
